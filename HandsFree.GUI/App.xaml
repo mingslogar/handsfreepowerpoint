@@ -1,0 +1,4 @@
+﻿<Application x:Class="HandsFree.GUI.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" StartupUri="StatusIndicator.xaml">
+	<Application.Resources></Application.Resources>
+</Application>
